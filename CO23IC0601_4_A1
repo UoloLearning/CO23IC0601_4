@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
+	<!-- This is a comment before the head tag. It will not be displayed on the page. -->
 <head>
+	<!-- This is a comment before the title tag. It will not be displayed on the page. -->
+
 	<title>My HTML Page</title>
 </head>
 <body>
-	<!-- This is a comment. It will not be displayed on the page. -->
+<!-- This is a comment inside the title tag. It will not be displayed on the page. -->
 	<h1>Welcome to my website!</h1>
 	<p>This website is about my favourite sport. I like playing chess. </p>
 </body>
