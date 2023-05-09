@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My HTML Page</title>
+</head>
+<body>
+	<!-- This is a comment. It will not be displayed on the page. -->
+	<h1>Welcome to my website!</h1>
+	<p>This website is about my favourite sport. I like playing chess. </p>
+</body>
+</html>
+
