@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Student Details</title>
+</head>
+<body>
+	<!-- This section contains the student's personal details -->
+	<h1>Student Information</h1><hr>
+
+		<p>Name: John Doe</p>
+        <p>Class: 10</p>
+        <p>Roll Number: 1234</p>
+        
+    
+    <!-- This section contains the school's details -->
+	<h2>School Information</h2><hr>
+    
+    	<p>School Name: XYZ Public School</p>
+		<p>Address: 123 Main Street, Anytown, USA</p>
+		<p>Contact: (123) 456-7890</p>
+	
+</body>
+</html>
